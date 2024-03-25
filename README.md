@@ -1,7 +1,3 @@
-Certainly! Here's a revised version of the README focusing more on what you've accomplished:
-
----
-
 # Script Programming Lab: Web Forms, REST, Databases, and JSON
 
 This repository showcases solutions for the Script Programming tasks, which revolve around creating web forms, handling REST services, interacting with databases, and managing JSON data using Python and Flask framework.
